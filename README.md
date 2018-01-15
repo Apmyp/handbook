@@ -28,6 +28,7 @@
 * [ДевШахта](https://itunes.apple.com/ru/podcast/девшахта/id1226773343)
 * [Пятиминутка React](https://itunes.apple.com/us/podcast/пятиминутка-react/id1178897992)
 * [RadioJS](https://itunes.apple.com/ru/podcast/radiojs/id904938655)
+* [Фронтенд Юность](https://itunes.apple.com/us/podcast/фронтенд-юность-18/id1247192730)
 
 ### Статьи
 * [У нас проблемы с промисами](https://habrahabr.ru/company/mailru/blog/269465/)
