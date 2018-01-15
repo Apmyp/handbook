@@ -34,6 +34,8 @@
 * [Rails 5 и Vue.js: как перестать мучаться с фронтендом и начать жить](https://mkdev.me/posts/rails-5-i-vue-js-kak-perestat-muchatsya-s-frontendom-i-nachat-zhit)
 * [React things](https://github.com/rtivital/react-things)
 * [Modern Javascript](https://github.com/mbeaudru/modern-js-cheatsheet)
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox froggy](http://flexboxfroggy.com/)
 
 ### Видео
 * [ES6 crash course](https://laracasts.com/series/es6-cliffsnotes/episodes/1)  
