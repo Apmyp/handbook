@@ -11,7 +11,7 @@
     * [Видео](#Видео)
     * [Книги](#Книги)
     * [Манифесты](#Манифесты)
-    * [Flexbox](#Flexbox)
+    * [Flexbox](#flexbox)
 * [Git](#git)
 
 # Frontend
