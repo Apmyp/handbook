@@ -11,6 +11,7 @@
     * [Видео](#Видео)
     * [Книги](#Книги)
     * [Манифесты](#Манифесты)
+    * [Flexbox](#Flexbox)
 * [Git](#git)
 
 # Frontend
@@ -35,8 +36,6 @@
 * [Rails 5 и Vue.js: как перестать мучаться с фронтендом и начать жить](https://mkdev.me/posts/rails-5-i-vue-js-kak-perestat-muchatsya-s-frontendom-i-nachat-zhit)
 * [React things](https://github.com/rtivital/react-things)
 * [Modern Javascript](https://github.com/mbeaudru/modern-js-cheatsheet)
-* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [Flexbox froggy](http://flexboxfroggy.com/)
 
 ### Видео
 * [ES6 crash course](https://laracasts.com/series/es6-cliffsnotes/episodes/1)  
@@ -50,6 +49,11 @@
 * [The A11Y Project](https://a11yproject.com/)
 * [Веблайнд](https://weblind.ru/inner.html#text-css)
 * [Outline none](http://www.outlinenone.com/)  
+
+### Flexbox
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox froggy](http://flexboxfroggy.com/)
+* [Codedojo — flexbox](https://www.youtube.com/watch?v=KE6JixHbocg)
 
 # Git
 * [Git flow — cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)  
