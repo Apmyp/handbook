@@ -61,16 +61,45 @@
 * [Git HowTo](https://githowto.com/ru)
 * [ProGit](https://git-scm.com/book/ru/v2)
 * [Гит  —  это система контроля версий](https://medium.com/%D1%80%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2-%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%B3%D0%B8%D1%82-%D1%8D%D1%82%D0%BE-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9-bd81b15e218d)
+* [Гитхаб в Академии](https://htmlacademy.ru/blog/213-github-in-academy)
 
 # Fonts
 * [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
+
+# Twitter
+* [Вадим Макеев](https://twitter.com/pepelsbey)
+* [Evgeny Rodionov](https://twitter.com/evgenyrodionov)
+* [Андрей Ситник](https://twitter.com/andrey_sitnik)
+* [Andrey Okonetchnikov](https://twitter.com/okonetchnikov)
+* [Dmitriy Rozhkov](https://twitter.com/nLight)
+* [Artem Sapegin](https://twitter.com/sapegin)
+* [Andrew Clark](https://twitter.com/acdlite)
+* [Dan Abramov](https://twitter.com/dan_abramov)
+* [Jeffrey Way](https://twitter.com/jeffrey_way)
+* [Pavel Durov](https://twitter.com/durov)
+* [Jeremy Daer](https://twitter.com/bitsweat)
+* [Pavel Argentov](https://twitter.com/argent_smith)
+* [Nikita Popov](https://twitter.com/nikita_ppv)
+* [Alexander Makarov](https://twitter.com/sam_dark)
+* [Rem Zolotykh](https://twitter.com/remzolotykh)
+* [Ivan Evtukhovich](https://twitter.com/evtuhovich)
+* [Лингвопанк](https://twitter.com/linguopunk_ru)
+* [Фронтенд Юность](https://twitter.com/frontend_u)
+* [.getInstance](https://twitter.com/getinstanceinfo)
+* [Frontend Weekend](https://twitter.com/frontendweekend)
+* [Пятиминутка React](https://twitter.com/5minreact)
+* [React](https://twitter.com/reactjs)
+* [Злые марсиане](https://twitter.com/evilmartians_ru)
+* [Ruby on Rails](https://twitter.com/rails)
+
 
 ---
 
 ## Roadmap
 
 * [ ] Добавить метку языка в ссылки
-* [ ] Отделить материалы только на английском языке
+* [ ] Отделить материалы на английском языке
+* [ ] Заняться сортировкой
 
 ## Contact Us 
 <table>
